@@ -3,8 +3,8 @@
 package re_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/re"
 	"github.com/iwind/TeaGo/assert"
+	"github.com/oy1978/EdgeNode/internal/re"
 	"regexp"
 	"testing"
 )

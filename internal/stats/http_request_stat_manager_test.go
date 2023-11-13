@@ -1,9 +1,9 @@
 package stats
 
 import (
-	iplib "github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"github.com/iwind/TeaGo/logs"
+	iplib "github.com/oy1978/EdgeCommon/pkg/iplibrary"
 	"testing"
 )
 

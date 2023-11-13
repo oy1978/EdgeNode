@@ -9,13 +9,13 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"errors"
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/rands"
 	stringutil "github.com/iwind/TeaGo/utils/string"
+	"github.com/oy1978/EdgeCommon/pkg/nodeconfigs"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/events"
 )
 
 var (

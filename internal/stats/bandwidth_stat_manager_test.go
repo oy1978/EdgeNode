@@ -3,8 +3,8 @@
 package stats_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/stats"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	"github.com/oy1978/EdgeNode/internal/stats"
 	"runtime"
 	"testing"
 	"time"

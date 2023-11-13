@@ -3,8 +3,8 @@
 package dbs_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/dbs"
 	"github.com/iwind/TeaGo/logs"
+	"github.com/oy1978/EdgeNode/internal/utils/dbs"
 	"testing"
 	"time"
 )

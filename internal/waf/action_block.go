@@ -1,12 +1,12 @@
 package waf
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/rands"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"io"
 	"net/http"
 	"os"

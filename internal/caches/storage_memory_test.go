@@ -2,9 +2,9 @@ package caches
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/rands"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
 	"runtime"
 	"runtime/debug"
 	"strconv"

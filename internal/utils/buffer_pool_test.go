@@ -4,7 +4,7 @@ package utils_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"strings"
 	"testing"
 )

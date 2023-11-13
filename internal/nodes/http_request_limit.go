@@ -3,7 +3,7 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/iplibrary"
+	"github.com/oy1978/EdgeNode/internal/iplibrary"
 	"net/http"
 )
 

@@ -3,8 +3,8 @@ package caches
 import (
 	"encoding/binary"
 	"errors"
-	rangeutils "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
 	"github.com/iwind/TeaGo/types"
+	rangeutils "github.com/oy1978/EdgeNode/internal/utils/ranges"
 	"io"
 	"os"
 )

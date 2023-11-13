@@ -2,8 +2,8 @@ package waf
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
 	"github.com/iwind/TeaGo/maps"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"reflect"
 	"sync/atomic"
 )

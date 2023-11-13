@@ -4,8 +4,8 @@ package fsutils
 
 import (
 	"encoding/json"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
 	"github.com/iwind/TeaGo/Tea"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
 	"github.com/shirou/gopsutil/v3/load"
 	"os"
 	"sync/atomic"

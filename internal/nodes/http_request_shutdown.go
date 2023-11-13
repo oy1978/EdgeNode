@@ -1,10 +1,10 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
 	"github.com/iwind/TeaGo/Tea"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs/shared"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"net/http"
 	"os"
 	"path"

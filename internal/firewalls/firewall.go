@@ -3,9 +3,9 @@
 package firewalls
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/events"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"runtime"
 	"sync"
 )

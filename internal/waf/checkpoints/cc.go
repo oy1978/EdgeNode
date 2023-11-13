@@ -1,11 +1,11 @@
 package checkpoints
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/counters"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/utils/counters"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
+	"github.com/oy1978/EdgeNode/internal/waf/utils"
 	"regexp"
 )
 

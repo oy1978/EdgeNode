@@ -3,7 +3,7 @@
 package syncutils_test
 
 import (
-	syncutils "github.com/TeaOSLab/EdgeNode/internal/utils/sync"
+	syncutils "github.com/oy1978/EdgeNode/internal/utils/sync"
 	"runtime"
 	"sync"
 	"testing"

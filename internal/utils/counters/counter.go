@@ -3,10 +3,10 @@
 package counters
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	syncutils "github.com/TeaOSLab/EdgeNode/internal/utils/sync"
 	"github.com/cespare/xxhash"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
+	syncutils "github.com/oy1978/EdgeNode/internal/utils/sync"
 	"sync"
 	"time"
 )

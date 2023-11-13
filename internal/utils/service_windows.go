@@ -5,8 +5,8 @@ package utils
 
 import (
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
 	"github.com/iwind/TeaGo/Tea"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
 	"golang.org/x/sys/windows"
 	"golang.org/x/sys/windows/svc"
 	"golang.org/x/sys/windows/svc/mgr"

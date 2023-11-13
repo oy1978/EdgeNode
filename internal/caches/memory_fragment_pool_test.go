@@ -4,11 +4,11 @@ package caches_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/rands"
 	timeutil "github.com/iwind/TeaGo/utils/time"
+	"github.com/oy1978/EdgeNode/internal/caches"
+	"github.com/oy1978/EdgeNode/internal/utils/testutils"
 	"runtime"
 	"sync"
 	"sync/atomic"

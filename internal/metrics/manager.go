@@ -3,10 +3,10 @@
 package metrics
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/events"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"strconv"
 	"sync"
 )

@@ -1,8 +1,8 @@
 package ttlcache
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 	"runtime"
 )
 

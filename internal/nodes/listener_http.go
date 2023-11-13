@@ -3,8 +3,8 @@ package nodes
 import (
 	"context"
 	"crypto/tls"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/Tea"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
 	"io"
 	"log"
 	"net"

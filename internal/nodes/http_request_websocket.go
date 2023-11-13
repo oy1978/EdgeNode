@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"io"
 	"net/http"
 	"net/url"

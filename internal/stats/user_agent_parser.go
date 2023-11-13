@@ -3,9 +3,9 @@
 package stats
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fnv"
 	"github.com/mssola/useragent"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils/fnv"
 	"sync"
 )
 

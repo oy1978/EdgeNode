@@ -4,10 +4,10 @@ package dbs
 
 import (
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
 	"github.com/iwind/TeaGo/logs"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/events"
+	"github.com/oy1978/EdgeNode/internal/goman"
 	"sort"
 	"strings"
 	"sync"

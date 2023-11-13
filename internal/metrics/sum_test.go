@@ -3,8 +3,8 @@
 package metrics_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/metrics"
 	timeutil "github.com/iwind/TeaGo/utils/time"
+	"github.com/oy1978/EdgeNode/internal/metrics"
 	"runtime"
 	"testing"
 )

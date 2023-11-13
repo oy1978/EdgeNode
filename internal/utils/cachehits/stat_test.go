@@ -3,11 +3,11 @@
 package cachehits_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/cachehits"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/rands"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/utils/cachehits"
+	"github.com/oy1978/EdgeNode/internal/utils/testutils"
 	"runtime"
 	"strconv"
 	"testing"

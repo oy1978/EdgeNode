@@ -3,7 +3,7 @@
 package utils
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
 	"github.com/shirou/gopsutil/v3/mem"
 )
 

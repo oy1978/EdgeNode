@@ -2,8 +2,8 @@ package caches
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
 	"github.com/cespare/xxhash"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 	"sync"
 )
 

@@ -3,9 +3,9 @@
 package caches_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
 	"github.com/iwind/TeaGo/Tea"
 	_ "github.com/iwind/TeaGo/bootstrap"
+	"github.com/oy1978/EdgeNode/internal/caches"
 	"testing"
 )
 

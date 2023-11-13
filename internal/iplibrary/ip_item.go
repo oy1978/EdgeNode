@@ -1,7 +1,7 @@
 package iplibrary
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 )
 
 type IPItemType = string

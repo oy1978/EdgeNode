@@ -4,9 +4,9 @@ package caches_test
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
+	"github.com/oy1978/EdgeNode/internal/caches"
 	"testing"
 	"time"
 )

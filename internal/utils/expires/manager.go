@@ -3,8 +3,8 @@
 package expires
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
+	"github.com/oy1978/EdgeNode/internal/goman"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"sync"
 	"time"
 )

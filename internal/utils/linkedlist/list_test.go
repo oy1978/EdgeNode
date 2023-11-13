@@ -3,7 +3,7 @@
 package linkedlist_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/linkedlist"
+	"github.com/oy1978/EdgeNode/internal/utils/linkedlist"
 	"runtime"
 	"strconv"
 	"testing"

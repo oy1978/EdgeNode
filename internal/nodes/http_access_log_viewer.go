@@ -4,10 +4,10 @@ package nodes
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"net"
 	"os"
 	"sync"

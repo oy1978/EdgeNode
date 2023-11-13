@@ -4,8 +4,8 @@ package compressions
 
 import (
 	"compress/gzip"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"io"
 )
 

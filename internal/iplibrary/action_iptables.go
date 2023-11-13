@@ -2,10 +2,10 @@ package iplibrary
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	executils "github.com/oy1978/EdgeNode/internal/utils/exec"
 	"runtime"
 	"strings"
 	"time"

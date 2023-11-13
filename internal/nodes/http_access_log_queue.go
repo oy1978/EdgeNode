@@ -2,11 +2,11 @@ package nodes
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	"github.com/oy1978/EdgeNode/internal/goman"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
+	"github.com/oy1978/EdgeNode/internal/rpc"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"strings"

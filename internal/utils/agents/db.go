@@ -4,11 +4,11 @@ package agents
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/dbs"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/events"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
+	"github.com/oy1978/EdgeNode/internal/utils/dbs"
 	"log"
 	"os"
 	"path/filepath"

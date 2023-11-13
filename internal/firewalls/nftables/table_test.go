@@ -4,7 +4,7 @@
 package nftables_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls/nftables"
+	"github.com/oy1978/EdgeNode/internal/firewalls/nftables"
 	"testing"
 )
 

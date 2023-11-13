@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/dchest/captcha"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 )
 
 var silValidator = NewSilValidator()

@@ -3,7 +3,7 @@
 package agents
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"sync"
 )
 

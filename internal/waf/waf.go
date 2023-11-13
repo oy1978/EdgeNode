@@ -7,12 +7,12 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/checkpoints"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/files"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/waf/checkpoints"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"gopkg.in/yaml.v3"
 )
 

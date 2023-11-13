@@ -1,10 +1,10 @@
 package utils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/re"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
 	"github.com/iwind/TeaGo/rands"
+	"github.com/oy1978/EdgeNode/internal/re"
+	"github.com/oy1978/EdgeNode/internal/utils/testutils"
+	"github.com/oy1978/EdgeNode/internal/waf/utils"
 	"net/http"
 	"regexp"
 	"runtime"

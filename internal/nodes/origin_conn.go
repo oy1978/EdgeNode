@@ -3,10 +3,10 @@
 package nodes
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/goman"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"net"
 	"sync"
 	"time"

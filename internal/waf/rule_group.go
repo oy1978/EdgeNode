@@ -2,7 +2,7 @@ package waf
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 )
 
 // rule group

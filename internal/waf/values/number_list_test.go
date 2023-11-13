@@ -3,8 +3,8 @@
 package values_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/values"
 	"github.com/iwind/TeaGo/assert"
+	"github.com/oy1978/EdgeNode/internal/waf/values"
 	"testing"
 )
 

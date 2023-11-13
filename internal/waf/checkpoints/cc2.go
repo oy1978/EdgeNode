@@ -4,12 +4,12 @@ package checkpoints
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/counters"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/utils/counters"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
+	"github.com/oy1978/EdgeNode/internal/waf/utils"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"path/filepath"
 	"strings"
 )

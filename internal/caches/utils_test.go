@@ -4,9 +4,9 @@ package caches_test
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
 	"github.com/cespare/xxhash"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/caches"
 	"strconv"
 	"testing"
 )

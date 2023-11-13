@@ -1,15 +1,15 @@
-module github.com/TeaOSLab/EdgeNode
+module github.com/oy1978/EdgeNode
 
 go 1.18
 
 replace (
-	github.com/TeaOSLab/EdgeCommon => ../EdgeCommon
+	github.com/oy1978/EdgeCommon => ../EdgeCommon
 	github.com/fsnotify/fsnotify => github.com/iwind/fsnotify v1.5.2-0.20220817040843-193be2051ff4
 	github.com/google/nftables => github.com/iwind/nftables v0.0.0-20230419014751-9f023a644ad4
 )
 
 require (
-	github.com/TeaOSLab/EdgeCommon v0.0.0-00010101000000-000000000000
+	github.com/oy1978/EdgeCommon v0.0.0-00010101000000-000000000000
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.7+incompatible
 	github.com/andybalholm/brotli v1.0.5
 	github.com/aws/aws-sdk-go v1.44.279

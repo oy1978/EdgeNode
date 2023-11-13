@@ -3,10 +3,10 @@
 package counters_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/counters"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
 	"github.com/iwind/TeaGo/assert"
 	timeutil "github.com/iwind/TeaGo/utils/time"
+	"github.com/oy1978/EdgeNode/internal/utils/counters"
+	"github.com/oy1978/EdgeNode/internal/utils/testutils"
 	"runtime"
 	"testing"
 	"time"

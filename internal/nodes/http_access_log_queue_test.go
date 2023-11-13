@@ -4,11 +4,11 @@ package nodes_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/nodes"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
 	_ "github.com/iwind/TeaGo/bootstrap"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	"github.com/oy1978/EdgeNode/internal/nodes"
+	"github.com/oy1978/EdgeNode/internal/rpc"
+	"github.com/oy1978/EdgeNode/internal/utils/testutils"
 	"google.golang.org/grpc/status"
 	"reflect"
 	"runtime"

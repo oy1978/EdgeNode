@@ -3,7 +3,7 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"net/http"
 )
 

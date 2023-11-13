@@ -5,7 +5,7 @@ package readers_test
 import (
 	"bytes"
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/readers"
+	"github.com/oy1978/EdgeNode/internal/utils/readers"
 	"testing"
 )
 

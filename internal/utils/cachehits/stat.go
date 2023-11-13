@@ -3,9 +3,9 @@
 package cachehits
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/oy1978/EdgeNode/internal/goman"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 	"sync"
 	"sync/atomic"
 	"time"

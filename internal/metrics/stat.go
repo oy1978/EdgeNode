@@ -3,7 +3,7 @@
 package metrics
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fnv"
+	"github.com/oy1978/EdgeNode/internal/utils/fnv"
 	"strconv"
 	"strings"
 )

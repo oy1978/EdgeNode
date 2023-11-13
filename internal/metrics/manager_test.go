@@ -3,7 +3,7 @@
 package metrics
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
 	"testing"
 )
 

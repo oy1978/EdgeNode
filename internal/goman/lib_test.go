@@ -3,7 +3,7 @@
 package goman_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/goman"
+	"github.com/oy1978/EdgeNode/internal/goman"
 	"testing"
 	"time"
 )

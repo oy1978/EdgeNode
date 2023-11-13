@@ -3,7 +3,7 @@
 package clock_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/clock"
+	"github.com/oy1978/EdgeNode/internal/utils/clock"
 	"testing"
 )
 

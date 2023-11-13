@@ -6,9 +6,9 @@ package nodes
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/logs"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"os"
 	"syscall"
 )
@@ -42,4 +42,3 @@ func (this *Node) handlePanic() {
 		logs.Println("NODE", "write to 'panic.log' failed: "+err.Error())
 	}
 }
-

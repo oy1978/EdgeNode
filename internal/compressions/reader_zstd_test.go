@@ -4,9 +4,9 @@ package compressions_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/compressions"
 	"github.com/iwind/TeaGo/rands"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/compressions"
 	"io"
 	"strings"
 	"testing"

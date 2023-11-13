@@ -2,10 +2,10 @@ package checkpoints
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
-	wafutils "github.com/TeaOSLab/EdgeNode/internal/waf/utils"
 	"github.com/iwind/TeaGo/maps"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
+	wafutils "github.com/oy1978/EdgeNode/internal/waf/utils"
 	"strings"
 )
 

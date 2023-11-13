@@ -1,8 +1,8 @@
 package caches
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/configutils"
 	"github.com/iwind/TeaGo/logs"
+	"github.com/oy1978/EdgeCommon/pkg/configutils"
 	"net"
 	"net/url"
 	"strconv"

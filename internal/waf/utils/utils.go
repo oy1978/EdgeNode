@@ -1,12 +1,12 @@
 package utils
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/re"
-	"github.com/TeaOSLab/EdgeNode/internal/ttlcache"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/cachehits"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
 	"github.com/cespare/xxhash"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/re"
+	"github.com/oy1978/EdgeNode/internal/ttlcache"
+	"github.com/oy1978/EdgeNode/internal/utils/cachehits"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 	"strconv"
 )
 

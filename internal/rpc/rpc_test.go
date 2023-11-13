@@ -3,10 +3,10 @@
 package rpc_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	timeutil "github.com/iwind/TeaGo/utils/time"
+	"github.com/oy1978/EdgeCommon/pkg/rpc/pb"
+	"github.com/oy1978/EdgeNode/internal/rpc"
 	"sync"
 	"testing"
 	"time"

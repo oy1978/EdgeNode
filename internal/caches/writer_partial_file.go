@@ -4,8 +4,8 @@ package caches
 
 import (
 	"encoding/binary"
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
 	"github.com/iwind/TeaGo/types"
+	fsutils "github.com/oy1978/EdgeNode/internal/utils/fs"
 	"io"
 	"os"
 	"sync"

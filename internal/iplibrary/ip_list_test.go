@@ -1,10 +1,10 @@
 package iplibrary
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/rands"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"runtime"
 	"runtime/debug"
 	"strconv"

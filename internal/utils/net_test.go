@@ -3,7 +3,7 @@
 package utils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"testing"
 )
 

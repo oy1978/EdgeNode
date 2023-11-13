@@ -3,11 +3,11 @@ package waf
 import (
 	"bytes"
 	"encoding/base64"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/dchest/captcha"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"net/http"
 	"strconv"
 	"strings"

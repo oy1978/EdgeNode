@@ -4,7 +4,7 @@ package dbs
 
 import (
 	"database/sql"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
+	"github.com/oy1978/EdgeNode/internal/remotelogs"
 	"time"
 )
 

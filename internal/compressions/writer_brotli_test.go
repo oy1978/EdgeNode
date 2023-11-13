@@ -4,8 +4,8 @@ package compressions_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/compressions"
 	stringutil "github.com/iwind/TeaGo/utils/string"
+	"github.com/oy1978/EdgeNode/internal/compressions"
 	"strings"
 	"testing"
 	"time"

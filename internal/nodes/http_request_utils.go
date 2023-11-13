@@ -3,10 +3,10 @@ package nodes
 import (
 	"crypto/rand"
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
 	"github.com/iwind/TeaGo/types"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
+	"github.com/oy1978/EdgeNode/internal/utils/ranges"
 	"io"
 	"net/http"
 	"net/url"

@@ -3,10 +3,10 @@
 package syncutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/stats"
-	syncutils "github.com/TeaOSLab/EdgeNode/internal/utils/sync"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/stats"
+	syncutils "github.com/oy1978/EdgeNode/internal/utils/sync"
 	"sync"
 	"testing"
 )

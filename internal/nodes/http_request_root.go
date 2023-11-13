@@ -2,12 +2,12 @@ package nodes
 
 import (
 	"fmt"
-	rangeutils "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
 	"github.com/cespare/xxhash"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/types"
+	rangeutils "github.com/oy1978/EdgeNode/internal/utils/ranges"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"io"
 	"io/fs"
 	"mime"

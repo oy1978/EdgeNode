@@ -3,9 +3,9 @@
 package nftables_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls/nftables"
 	"github.com/iwind/TeaGo/rands"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/firewalls/nftables"
 	"net"
 	"testing"
 	"time"

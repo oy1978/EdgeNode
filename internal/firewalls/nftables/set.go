@@ -5,8 +5,8 @@ package nftables
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
 	nft "github.com/google/nftables"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"net"
 	"strings"
 	"time"

@@ -3,8 +3,8 @@
 package values
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/zero"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeNode/internal/zero"
 	"strings"
 )
 

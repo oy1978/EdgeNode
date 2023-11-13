@@ -3,12 +3,12 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/conns"
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/expires"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
 	"github.com/iwind/TeaGo/types"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	"github.com/oy1978/EdgeNode/internal/conns"
+	"github.com/oy1978/EdgeNode/internal/firewalls"
+	"github.com/oy1978/EdgeNode/internal/utils/expires"
+	"github.com/oy1978/EdgeNode/internal/utils/fasttime"
 	"sync"
 	"sync/atomic"
 )

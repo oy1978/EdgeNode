@@ -1,8 +1,8 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
 	"github.com/iwind/TeaGo/assert"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
 	"runtime"
 	"testing"
 )

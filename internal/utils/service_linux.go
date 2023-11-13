@@ -6,10 +6,10 @@ package utils
 import (
 	"errors"
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/files"
+	teaconst "github.com/oy1978/EdgeNode/internal/const"
+	executils "github.com/oy1978/EdgeNode/internal/utils/exec"
 	"os"
 	"os/exec"
 	"regexp"

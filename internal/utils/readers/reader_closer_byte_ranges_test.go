@@ -5,7 +5,7 @@ package readers_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/readers"
+	"github.com/oy1978/EdgeNode/internal/utils/readers"
 	"io"
 	"net/textproto"
 	"testing"

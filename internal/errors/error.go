@@ -2,7 +2,7 @@ package errors
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/oy1978/EdgeNode/internal/utils"
 	"path/filepath"
 	"runtime"
 	"strconv"

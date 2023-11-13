@@ -4,7 +4,7 @@ package compressions_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/compressions"
+	"github.com/oy1978/EdgeNode/internal/compressions"
 	"strings"
 	"testing"
 )

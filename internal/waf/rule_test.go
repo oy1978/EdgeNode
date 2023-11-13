@@ -1,10 +1,10 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/checkpoints"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/maps"
+	"github.com/oy1978/EdgeNode/internal/waf/checkpoints"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"net/http"
 	"net/url"
 	"testing"

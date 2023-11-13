@@ -2,7 +2,7 @@ package nodes
 
 import (
 	"context"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+	"github.com/oy1978/EdgeCommon/pkg/serverconfigs"
 	"runtime"
 	"testing"
 	"time"

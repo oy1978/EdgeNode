@@ -2,10 +2,10 @@ package waf
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/logs"
+	"github.com/oy1978/EdgeNode/internal/waf/requests"
 	"mime/multipart"
 	"net/http"
 	"net/url"

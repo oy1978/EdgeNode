@@ -1,6 +1,6 @@
 package caches
 
-import "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
+import "github.com/oy1978/EdgeNode/internal/utils/ranges"
 
 type ReaderFunc func(n int) (goNext bool, err error)
 

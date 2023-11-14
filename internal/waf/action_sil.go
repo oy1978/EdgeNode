@@ -15,7 +15,7 @@ import (
 
 const (
 	SilSeconds = 600 // 10 minutes
-	SilPath    = "/WAF/VERIFY/CAPTCHA"
+	SilPath    = "/WAF/VERIFY/SIL"
 )
 
 type SilAction struct {
